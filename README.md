@@ -4,7 +4,7 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F72585&center=true&vCenter=true&width=435&lines=Hi+Sana+Akhter;Frontend+Developer;Web+Developer;Responsive+Website+or+Projects+%F0%9F%A4%96;Let's+Build+Together+%F0%9F%9A%80" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F72585&center=true&vCenter=true&width=435&lines=Hi+Sana+here;Frontend+Developer;Web+Developer;Responsive+Website+or+Projects+%F0%9F%A4%96;Let's+Build+Together+%F0%9F%9A%80" 
     alt="Typing SVG"
   />
 </p>
@@ -42,10 +42,10 @@ I enjoy turning ideas into user-friendly designs using modern web tools and tech
 
 
 ### 📂 Featured Projects
-- 🍔 [Food Website](#)  
-  A fully responsive food ordering website built with HTML, CSS, and JavaScript.
+- 🍔 [Food Website](https://soft-taiyaki-80dc98.netlify.app/)  
+  A fully responsive food website built with HTML, CSS, and Bootstrap.
 
-- 💬 [Chatboard App](#)  
+- 💬 [Chatboard App](https://sanacoder26.github.io/Chat-Bot/)  
   A simple, interactive chatboard built with JavaScript for dynamic chat responses.
 
 ---
@@ -62,7 +62,13 @@ I enjoy turning ideas into user-friendly designs using modern web tools and tech
 
 <img src="https://camo.githubusercontent.com/35fecfe964ab0a42587f45113df147c8e8804983fa30c6908c4083cd6e392915/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3132302673656374696f6e3d666f6f746572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=120&amp;section=footer" style="max-width: 100%;">
 
-⭐️ *“Design is not just what it looks like — it’s how it works.”*
+⭐️ *“Design is not just what it looks like it’s how it works.”*
 
 
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F72585&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile" 
+    alt="Typing SVG"
+  />
+</p>
 
