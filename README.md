@@ -8,16 +8,26 @@
     alt="Typing SVG"
   />
 </p>
----
 
-### 💻 About Me  
-- 🌱 I’m currently learning **web development**  
+    💻 About Me  
+
+ -  🌱 I’m currently learning **web development**
+
+ -  🔭 I’m currently working on **my super base project**
+
 - 💡 I love building **user-friendly and responsive web interfaces**  
+
 - 🎨 Interested in **UI/UX design**  
+
+- 👨‍💻 All of my projects are available my github.
+
+- 💬 Ask me about **fronted projects**
+
+- 👯 I’m looking to collaborate on **team**
+
 - 📫 Reach me at **wcoding819@gmail.com**  
 
 ---
-
 ### 🛠️ Tech Stack  
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -31,11 +41,11 @@
 </p>
 
 ---
-
 ### 📊 GitHub Stats  
-![Sana's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanacoder26&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanacoder26&layout=compact)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanacoder26&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanacoder26&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanacoder26&theme=radical)
 
 I'm a **Front-End Developer** focused on creating clean, responsive, and creative websites.  
 I enjoy turning ideas into user-friendly designs using modern web tools and technologies.
@@ -50,6 +60,7 @@ I enjoy turning ideas into user-friendly designs using modern web tools and tech
 
 ---
 
+
 ### 🌐 Connect With Me
 <a href="https://www.linkedin.com/in/sana-naz-77341b378/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="wcoding819@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -63,7 +74,6 @@ I enjoy turning ideas into user-friendly designs using modern web tools and tech
 <img src="https://camo.githubusercontent.com/35fecfe964ab0a42587f45113df147c8e8804983fa30c6908c4083cd6e392915/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3132302673656374696f6e3d666f6f746572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=120&amp;section=footer" style="max-width: 100%;">
 
 ⭐️ *“Design is not just what it looks like it’s how it works.”*
-
 
 <p align="center">
   <img 
