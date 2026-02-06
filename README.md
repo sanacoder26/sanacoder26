@@ -4,18 +4,13 @@
 
  <p align="center"> 
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F72585&center=true&vCenter=true&width=435&lines=Hi+Sana+here;Frontend+Developer;Web+Developer;Responsive+Website+or+Projects+%F0%9F%A4%96;Let's+Build+Together+%F0%9F%9A%80" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F72585&center=true&vCenter=true&width=435&lines=Hi+Sana+here;Frontend+Developer;Wordpress+Developer;Responsive+Website+or+Projects+%F0%9F%A4%96;Let's+Build+Together+%F0%9F%9A%80" 
     alt="Typing SVG"
   />
 </p>
 
     
-  <img
-    src="https://komarev.com/ghpvc/?username=sanacoder26&label=Profile%20views&color=0e75b6&style=flat"
-    alt="Profile views counter"
-  />
-</p>
-
+  
 
     💻 About Me  
 
@@ -33,7 +28,7 @@
 
 - 👯 I’m looking to collaborate on **team**
 
-- 🐛🔧 Fun fact I enjoy fixing UI bugs more than creating new ones.
+- ⚡Fun fact I enjoy fixing UI bugs more than creating new ones.
 
 ---
 ### 🛠️ Tech Stack  
@@ -41,7 +36,7 @@
   <a target="_blank" rel="noopener noreferrer nofollow"
      href="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,nextjs,typescript,nodejs,express,mongodb,git,github,postman,vercel,netlify,vscode">
     <img
-      src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,nextjs,typescript,nodejs,express,mongodb,git,github,vercel,netlify,vscode"
+      src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,nextjs,typescript,nodejs,express,mongodb,vscode,supabase,git,github,vercel,netlify"
       style="max-width: 100%;">
   </a>
 </p>
@@ -51,7 +46,19 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanacoder26&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanacoder26&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanacoder26&theme=radical)
+
+
+<a target="_blank" rel="noopener noreferrer nofollow"
+href="https://github-contributor-stats.vercel.app/api?username=sanacoder26&limit=5&theme=dark&combine_all_yearly_contributions=true">
+  <img src="https://github-contributor-stats.vercel.app/api?username=sanacoder26&limit=5&theme=dark&combine_all_yearly_contributions=true"
+  style="max-width:100%;" />
+</a>
+
+
+
+
+
+
 
 I'm a **Front-End Developer** focused on creating clean, responsive, and creative websites.  
 I enjoy turning ideas into user-friendly designs using modern web tools and technologies.
@@ -76,8 +83,14 @@ I enjoy turning ideas into user-friendly designs using modern web tools and tech
   </a>
 
 ---
+<img
+    src="https://komarev.com/ghpvc/?username=sanacoder26&label=Profile%20views&color=0e75b6&style=flat"
+    alt="Profile views counter"
+  />
+</p>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/12ec891478b44025252f87bd5edf83ed51d1045b4fdc903de5bae671ed8cf7ce/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e67266865696768743d3132302673656374696f6e3d666f6f74657226636f6c6f723d303a3643354345372c35303a3030423839342c3130303a303041384646"><img src="https://camo.githubusercontent.com/12ec891478b44025252f87bd5edf83ed51d1045b4fdc903de5bae671ed8cf7ce/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e67266865696768743d3132302673656374696f6e3d666f6f74657226636f6c6f723d303a3643354345372c35303a3030423839342c3130303a303041384646" alt="Footer banner" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;height=120&amp;section=footer&amp;color=0:6C5CE7,50:00B894,100:00A8FF" style="max-width: 100%;"></a>
 
-<img src="https://camo.githubusercontent.com/35fecfe964ab0a42587f45113df147c8e8804983fa30c6908c4083cd6e392915/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3132302673656374696f6e3d666f6f746572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=120&amp;section=footer" style="max-width: 100%;">
+
 
 ⭐️ *“Design is not just what it looks like it’s how it works.”*
 
