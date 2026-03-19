@@ -1,6 +1,7 @@
-<div align="center">
-     <img src="https://raw.githubusercontent.com/sanacoder26/sanacoder26/main/banner.png" width="100%" alt="" />
-   </div>
+ <div align="center">
+  <img src="https://raw.githubusercontent.com/sanacoder26/sanacoder26/main/SanaCoder.jpeg" width="100%" height="240" alt="SanaCoder Banner" />
+</div>
+
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hi;I'm+Sana;Frontend+Developer;WordPress+Developer;Building+Responsive+Websites;Let's+Create+Something+Amazing!" alt="Typing SVG" />
@@ -101,6 +102,7 @@ Build 30+ Projects
 </div>
 
 <br/>
+
 
 ## 📊 GitHub Statistics
 
