@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/sanacoder26/sanacoder26/main/banner.png" width="100%" height="240" alt="SanaCoder Banner" />
-</div>
-
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hi;I'm+Sana;Frontend+Developer;WordPress+Developer;Building+Responsive+Websites;Let's+Create+Something+Amazing!" alt="Typing SVG" />
@@ -9,7 +5,7 @@
 
 <div align="center">
   
-  [![Portfolio](https://img.shields.io/badge/Portfolio-22D3EE?style=for-the-badge&logo=google-chrome&logoColor=0A1628)](https://precious-quokka-38ce99.netlify.app/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-22D3EE?style=for-the-badge&logo=google-chrome&logoColor=0A1628)](https://elegant-cendol-552937.netlify.app/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A84A8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanaakhter-77341b378)
   [![GitHub](https://img.shields.io/badge/GitHub-1A3A5C?style=for-the-badge&logo=github&logoColor=22D3EE)](https://github.com/sanacoder26)
   [![Email](https://img.shields.io/badge/Email-00A8B5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanaakhter701@gmail.com)
@@ -122,7 +118,7 @@ Build 30+ Projects
 
 | Project | Description | Tech Stack | Live Demo |
 |---------|-------------|------------|-----------|
-|  **Portfolio Website** | Modern, animated portfolio with neon theme | React, GSAP, Tailwind CSS | [View →](https://precious-quokka-38ce99.netlify.app/) |
+|  **Portfolio Website** | Modern, animated portfolio with neon theme | React, GSAP, Tailwind CSS | [View →](https://elegant-cendol-552937.netlify.app/) |
 | **Studnet portal** | Fully responsive Portal APP | React, javascript,Tailwind CSS, Supabase| [View →](https://cozy-dango-322f87.netlify.app/) |
 |  **Chatboard App** | Interactive chatbot with AI responses | JavaScript, HTML, CSS | [View →](https://sanacoder26.github.io/Chat-Bot/) |
 
