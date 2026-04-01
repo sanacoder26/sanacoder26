@@ -1,4 +1,13 @@
 
+  <!-- 🔥 HEADER (Top pe) -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:0ea5e9&height=180&section=header&text=Sana%20Coder&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Fronted%20devoleper%20|%20Wordpress%20devoleper&descAlignY=55&descSize=18" width="100%">
+</div>
+
+<!-- 👇 Tumhara baaki code -->
+<article>
+  ...
+</article>
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hi;I'm+Sana;Frontend+Developer;WordPress+Developer;Building+Responsive+Websites;Let's+Create+Something+Amazing!" alt="Typing SVG" />
 </h1>
