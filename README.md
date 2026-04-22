@@ -6,7 +6,8 @@
 </h1>
 
 <h3 style="color:#FFD700;">
-Frontend Developer | WordPress Developer | SEO Specialist
+<!-- Frontend Developer | WordPress Developer | SEO Specialist -->
+  Frontend Developer | React & Figma Specialist | Currently learning MERN Stack
 </h3>
 
 </div>
@@ -14,15 +15,11 @@ Frontend Developer | WordPress Developer | SEO Specialist
 ---
 
 ## 👩‍💻 About Me
+Frontend Developer focused on turning designs into clean, responsive, and pixel-perfect web applications. I specialize in converting Figma designs into React-based interfaces with attention to detail in spacing, layout, hover effects, and smooth animations.
 
-Hi, I'm **Sana Akhter** from Karachi, Pakistan  
+I care about both design accuracy and user experience, making sure every component feels consistent and production-ready.
 
-I build modern, fast and SEO-optimized websites using:
-
-- React  
-- Tailwind CSS  
-- GSAP animations  
-- Supabase backend  
+Currently expanding my skill set into backend development with Node.js, Express, and MongoDB, aiming to grow into a complete MERN Stack Developer.
 
 ---
 
@@ -83,7 +80,7 @@ I build modern, fast and SEO-optimized websites using:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Status
 
 <div align="center">
 
